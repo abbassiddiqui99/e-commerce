@@ -3,10 +3,11 @@ basic e-commerce website
 
 
 To simply run this repository
-
-$ clone <this repository>
-
 Run this command
+
+$ clone repository
+
+
 $ npm install
 
 $ npm start
